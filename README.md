@@ -19,7 +19,7 @@ As a result of our analysis, we have found the following:
 
 <img width="255" alt="retiring_titles" src="https://user-images.githubusercontent.com/116031639/206327496-334295df-c321-42b2-b5fc-fb401d1842cf.png">
 
-- A list of employees eligible for the mentorship program: 1,549 employees in [mentorship eligibilty file](Data/mentorship_eligibilty.csv) 
+- A list of employees eligible for the mentorship program: 1,549 employees in [mentorship eligibility file](Data/mentorship_eligibility.csv) 
 
 ## Summary
 
